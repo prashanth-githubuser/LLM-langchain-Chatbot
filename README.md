@@ -12,7 +12,7 @@ LLM "tiiuae/falcon-7b-instruct" are used for this case, but you can try out with
 
 
 Overview of Chat bot using LLM 
-Chainlit_App.png
+![Chainlit_App](https://github.com/prashanth-githubuser/LLM-langchain-Chatbot/assets/120344718/ea058cc0-2454-4ce1-86ab-21641d629318)
 
 
 Chat History are available in left side of the chat whindow (Upright arrow mark)
