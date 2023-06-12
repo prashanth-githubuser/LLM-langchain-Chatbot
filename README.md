@@ -12,7 +12,7 @@ LLM "tiiuae/falcon-7b-instruct" are used for this case, but you can try out with
 
 
 Overview of Chat bot using LLM 
-![Alt text](Chainlit_App.png)
+Chainlit_App.png
 
 
 Chat History are available in left side of the chat whindow (Upright arrow mark)
