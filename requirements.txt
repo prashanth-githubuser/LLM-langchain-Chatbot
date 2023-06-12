@@ -1,0 +1,4 @@
+python-dotenv==1.0.0
+chainlit==0.2.111
+huggingface_hub==0.15.1
+langchain==0.0.198
