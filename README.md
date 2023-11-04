@@ -18,5 +18,5 @@ Overview of Chat bot using LLM
 Chat History are available in left side of the chat whindow (Upright arrow mark)
 
 ## Disclaimer
-1.Chainlit API shall be updated as this project was developed during beta version.
+1.Chainlit API shall be updated as this project was developed during beta version.  
 2.It is not meant to be used in production as it's not production ready. You can modify the code and use for your usecases.
